@@ -1,0 +1,52 @@
+{
+  "project": "跨产区咖啡词义复核与评委对照样分配",
+  "material_title": "杯测短评、词义对照、分样单和复评席名录",
+  "material_nature": "本地合成演练资料",
+  "records": [
+    {
+      "kind": "glossary",
+      "id": "g1",
+      "text": "词义说明|winey 在洁净杯语境是发酵香型；ferment defect 表示缺陷。旧版本把两项同列“发酵”。"
+    },
+    {
+      "kind": "lot",
+      "id": "l1",
+      "text": "桐谷一号分封|批号 K21，盲样 H17、X52 均来自这批；评委孟萍校过 K21 产地宣传稿。"
+    },
+    {
+      "kind": "lot",
+      "id": "l2",
+      "text": "绿垭二号分封|批号 M08，盲样 F23。另产区，洁净果酒香训练杯。"
+    },
+    {
+      "kind": "lot",
+      "id": "l3",
+      "text": "灰峰三号分封|批号 T18，盲样 Z09。另产区，确认缺陷的对照杯。"
+    },
+    {
+      "kind": "note",
+      "id": "n1",
+      "text": "评委甲 H17|Winey in the aroma, no ferment defect; the reference Y04 was dull."
+    },
+    {
+      "kind": "note",
+      "id": "n2",
+      "text": "评委乙 X52|比 F23 那股酒香重，像主审曾说的“发酵”，我未确认是缺陷。"
+    },
+    {
+      "kind": "note",
+      "id": "n3",
+      "text": "评委丙 H17|入口没有酒香，回冷后有明显的 ferment defect，Rechecked at second pour."
+    },
+    {
+      "kind": "roster",
+      "id": "r1",
+      "text": "复评席|孟萍可做香型/缺陷；秦禾仅缺陷；沈珂仅香型。原送审单已由沈珂领取。"
+    },
+    {
+      "kind": "revision",
+      "id": "v2",
+      "text": "秘书签认|n3 的第二次冲注与 n1 首次冲注不是同一次判断，共享原杯号，不得重复登记分封。"
+    }
+  ]
+}
